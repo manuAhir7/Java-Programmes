@@ -32,6 +32,6 @@ public class AveragePairs {
            arr[i] = sc.nextInt();
         }
         avgPairs(arr);//function calling
-
+        sc.close();
     }
 }

@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class SubArraySum1 {
 
     public static int  ArraySum(int arr[]){

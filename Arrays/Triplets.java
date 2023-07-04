@@ -2,7 +2,7 @@
 import java.util.*;
 class Triplets{
 	public static void main(String[] args){
-		Scanner sc=new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		int t=sc.nextInt();
 		while(t-->0){
 			int n=sc.nextInt();
@@ -17,6 +17,7 @@ class Triplets{
 				System.out.println("0");
 			
 		}
+		sc.close();
 	}
 }
 

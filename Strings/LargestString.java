@@ -1,5 +1,3 @@
-import javax.print.DocFlavor.STRING;
-
 public class LargestString {
 
     public static void main(String[] args) {
